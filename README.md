@@ -48,5 +48,6 @@ Please make sure to update tests as appropriate.
 
 ## Image Examples
 This example uses the [Animals-10](https://www.kaggle.com/alessiocorrado99/animals10) dataset obtained from [kaggle.com](kaggle.com)
+
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/62020687/157481223-91ce8f33-af5e-4222-a283-8597ef0e08cc.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/62020687/157481457-67ff4bb3-8e94-4bf5-8485-bf0b40782a57.png">
