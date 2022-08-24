@@ -1,6 +1,6 @@
 # Photographic Mosaic
 
-Photographic Mosaic is, as the name suggests, a python program that takes in a dataset of images and concatenates them to create a photographic mosaic (an image out of images)
+Photographic Mosaic is, as the name suggests, is a python program that takes in a dataset of images and concatenates them to create a photographic mosaic (an image out of images)
 ## Logic Summary
 In order to create a photographic mosaic, we need to map each pixel of the base image (the image we are trying to make out of many images) to an image from the dataset. To do this, we calculate the average RGB values of all images in the dataset and then map each pixel to the closes image RGB average
 
